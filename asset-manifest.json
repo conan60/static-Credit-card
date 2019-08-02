@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static-credit-card/static/css/main.348e3a15.chunk.css",
+    "main.js": "/static-credit-card/static/js/main.11e19266.chunk.js",
+    "main.js.map": "/static-credit-card/static/js/main.11e19266.chunk.js.map",
+    "runtime~main.js": "/static-credit-card/static/js/runtime~main.635afaaa.js",
+    "runtime~main.js.map": "/static-credit-card/static/js/runtime~main.635afaaa.js.map",
+    "static/js/2.3310f33a.chunk.js": "/static-credit-card/static/js/2.3310f33a.chunk.js",
+    "static/js/2.3310f33a.chunk.js.map": "/static-credit-card/static/js/2.3310f33a.chunk.js.map",
+    "index.html": "/static-credit-card/index.html",
+    "precache-manifest.b4dac23c38a8e531705fd811ff0b9472.js": "/static-credit-card/precache-manifest.b4dac23c38a8e531705fd811ff0b9472.js",
+    "service-worker.js": "/static-credit-card/service-worker.js",
+    "static/css/main.348e3a15.chunk.css.map": "/static-credit-card/static/css/main.348e3a15.chunk.css.map",
+    "static/media/App.css": "/static-credit-card/static/media/card.8fec8b97.gif"
+  }
+}
